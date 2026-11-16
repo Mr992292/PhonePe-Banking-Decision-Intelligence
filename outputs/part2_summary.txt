@@ -1,0 +1,30 @@
+
+PHONEPE BANKING DECISION INTELLIGENCE
+PART 2 - MODEL EVALUATION SUMMARY
+
+1. Logistic Regression Evaluation
+   Accuracy: 0.8042
+   Precision: 0.5455
+   Recall: 0.4706
+   F1-score: 0.5053
+   Specificity: 0.8942
+
+2. KNN Model Evaluation
+   Best K: 5
+   Accuracy: 0.7583
+   Precision: 0.4146
+   Recall: 0.3333
+   F1-score: 0.3696
+   Specificity: 0.8730
+
+3. Model Comparison
+   Logistic Regression performed better than KNN
+   across all five reported test metrics.
+
+4. Additional Evaluation
+   - Threshold analysis
+   - Confusion matrices
+   - ROC curve comparison
+   - ROC-AUC calculation
+
+PART 2 STATUS: COMPLETED
