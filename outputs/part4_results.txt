@@ -1,0 +1,4 @@
+root_entropy = 0.7462
+root_gini = 0.3347
+best_split_by_info_gain = S4
+best_split_by_gini_gain = S4
